@@ -1,0 +1,42 @@
+It is highly recommended to download Patapon 3 HD textures before installing these.
+To make these textures work:
+1.Put the "Overhaul" folder in ppsspp\memstick\PSP\TEXTURES\UCES01422
+2. Open your textures.ini file and append this at the end:
+; OH TEXTURES: Start
+00000000dc002727f762b4bd = Overhaul/Hairs/00000000dc002727f762b4bd.png
+000000000ae0b019e35b962d = Overhaul/Hairs/000000000ae0b019e35b962d.png
+00000000ff8bb55c415b0707 = Overhaul/Hairs/00000000ff8bb55c415b0707.png
+000000004b68b2df8b1ca255 = Overhaul/Hairs/000000004b68b2df8b1ca255.png
+;Not sure about this one^
+000000004b0408a545b96496 = Overhaul/Hairs/000000004b0408a545b96496.png
+000000005a38fd30be4f0003 = Overhaul/Hairs/000000005a38fd30be4f0003.png
+000000000a3d98c6534881b1 = Overhaul/Items/000000000a3d98c6534881b1.png
+00000000c6bbaa5d7e06b65b = Overhaul/Items/00000000c6bbaa5d7e06b65b.png
+00000000b1676e83698acd15 = Overhaul/Relics/00000000b1676e83698acd15.png
+000000001324b923079afa82 = Overhaul/Relics/000000001324b923079afa82.png
+00000000d3989d0ff5fbbc69 = Overhaul/Relics/00000000d3989d0ff5fbbc69.png
+000000009669c893519e72a5 = Overhaul/Relics/000000009669c893519e72a5.png
+00000000672588123f07e870 = Overhaul/Relics/00000000672588123f07e870.png
+00000000f4a29202e213c9bf = Overhaul/Relics/00000000f4a29202e213c9bf.png
+000000002afecf4089c10d47 = Overhaul/Relics/000000002afecf4089c10d47.png
+000000006cfb437a9b8a33f6 = Overhaul/Relics/000000006cfb437a9b8a33f6.png
+0000000035e9310277e47db6 = Overhaul/Relics/0000000035e9310277e47db6.png
+00000000b3c499482f57ccff = Overhaul/Relics/00000000b3c499482f57ccff.png
+00000000e9e36dca77dc9f86 = Overhaul/Map/00000000e9e36dca77dc9f86.png
+00000000ee3f1b42fc5d5b33 = Overhaul/Map/00000000ee3f1b42fc5d5b33.png
+000000006322dcf61fc41963 = Overhaul/Map/000000006322dcf61fc41963.png
+000000005a667c6e183d5dff = Overhaul/Map/000000005a667c6e183d5dff.png
+0000000048387baebb8f920b = Overhaul/Map/0000000048387baebb8f920b.png
+00000000b605d203d89d8d0c = Overhaul/Map/00000000b605d203d89d8d0c.png
+00000000b2b1964a31227972 = Overhaul/Map/00000000b2b1964a31227972.png
+00000000321788dde9b90c78 = Overhaul/Effects/00000000321788dde9b90c78.png
+00000000008cef98f67ef9b7 = Overhaul/Effects/00000000008cef98f67ef9b7.png
+000000001c4fa1da6b11f47d = Overhaul/Effects/000000001c4fa1da6b11f47d.png 
+00000000e4f53e7cf990e6d7 = Overhaul/Effects/00000000e4f53e7cf990e6d7.png
+00000000dbccf5263ea26259 = Overhaul/Effects/00000000dbccf5263ea26259.png
+00000000e434281a84990f89 = Overhaul/Effects/00000000e434281a84990f89.png
+0000000045f47d4f6b11f47d = Overhaul/Effects/0000000045f47d4f6b11f47d.png
+00000000657bafcde9b90c78 = Overhaul/Effects/00000000657bafcde9b90c78.png
+000000008e067f80dbd9f09a = Overhaul/Effects/000000008e067f80dbd9f09a.png
+
+; OH TEXTURES: END
