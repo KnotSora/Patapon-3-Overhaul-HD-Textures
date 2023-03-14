@@ -7,9 +7,16 @@ To make these textures work:
 000000000ae0b019e35b962d = Overhaul/Hairs/000000000ae0b019e35b962d.png
 00000000ff8bb55c415b0707 = Overhaul/Hairs/00000000ff8bb55c415b0707.png
 000000004b68b2df8b1ca255 = Overhaul/Hairs/000000004b68b2df8b1ca255.png
-;Not sure about this one^
 000000004b0408a545b96496 = Overhaul/Hairs/000000004b0408a545b96496.png
 000000005a38fd30be4f0003 = Overhaul/Hairs/000000005a38fd30be4f0003.png
+000000007c6e7bc28c2fac38 = Overhaul/Hairs/000000007c6e7bc28c2fac38.png
+000000009b710cdc1e8ec799 = Overhaul/Hairs/000000009b710cdc1e8ec799.png
+00000000c13f2cab19ce437e = Overhaul/Hairs/00000000c13f2cab19ce437e.png
+00000000a87009ec5ed2c33c = Overhaul/Hairs/00000000a87009ec5ed2c33c.png
+000000001054ac6b6fc423c8 = Overhaul/Hairs/000000001054ac6b6fc423c8.png
+00000000492d46449434e312 = Overhaul/Hairs/00000000492d46449434e312.png
+00000000fc455b05a65daf52 = Overhaul/Hideout/00000000fc455b05a65daf52.png
+00000000eefba27fd042fd30 = Overhaul/Items/00000000eefba27fd042fd30.png
 000000000a3d98c6534881b1 = Overhaul/Items/000000000a3d98c6534881b1.png
 00000000c6bbaa5d7e06b65b = Overhaul/Items/00000000c6bbaa5d7e06b65b.png
 00000000b1676e83698acd15 = Overhaul/Relics/00000000b1676e83698acd15.png
@@ -38,5 +45,4 @@ To make these textures work:
 0000000045f47d4f6b11f47d = Overhaul/Effects/0000000045f47d4f6b11f47d.png
 00000000657bafcde9b90c78 = Overhaul/Effects/00000000657bafcde9b90c78.png
 000000008e067f80dbd9f09a = Overhaul/Effects/000000008e067f80dbd9f09a.png
-
 ; OH TEXTURES: END
