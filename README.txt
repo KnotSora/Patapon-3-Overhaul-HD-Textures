@@ -1,4 +1,6 @@
+Huge thanks to Hoz for upscaling some of the textures :)
 It is highly recommended to download Patapon 3 HD textures before installing these.
+You can download them here: https://github.com/WallSoGB/Patapon3Textures or https://drive.google.com/drive/folders/1L2GL0GdqHGnI_b2JupFaF2PHtTLVFCNT?usp=sharing
 To make these textures work:
 1.Put the "Overhaul" folder in ppsspp\memstick\PSP\TEXTURES\UCES01422
 2. Open your textures.ini file and append this at the end:
