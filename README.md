@@ -16,7 +16,7 @@
 ### To make these textures work:
 - Create a folder called "UCES01422" (skip this step if you already have such a folder)
 - Place both the "Overhaul" folder and your unpacked textures of choice inside of the "UCES01422" folder
-- Open both "texture.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
+- Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
 ### If you're updating the textures, replace the entire "Overhaul" Folder and replace the old hashes.
@@ -24,7 +24,7 @@
 
 - [Shockturtle](https://github.com/shockturtle) (Patapon 2 Relic Textures)
 - Hoz (Ai-Upscaling and some Wallpaper type textures)
-- Ai Upscaled with Lollypop by Lyonhrt and Remacri by Foolhardy
+- Textures AI-Upscaled using [Lollypop 4x AI model by Lyonhrt and Remacri 4x AI model by Foolhardy](https://upscale.wiki/wiki/Model_Database#Universal_Models "Upscale Wiki")
 ***
 ## New to Overhaul?
 - [Patapon 3 Overhaul Discord](https://discord.gg/gX2EZe6EJj)
