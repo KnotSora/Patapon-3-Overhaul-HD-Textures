@@ -19,11 +19,12 @@
 - Open both "texture.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
+### If you're updating the textures, replace the entire "Overhaul" Folder and replace the old hashes.
 ## 🌟Big thank you to:
 
 - [Shockturtle](https://github.com/shockturtle) (Patapon 2 Relic Textures)
-- Hoz (Ai-Upscaling)
-
+- Hoz (Ai-Upscaling and some Wallpaper type textures)
+- Ai Upscaled with Lollypop by Lyonhrt and Remacri by Foolhardy
 ***
 ## New to Overhaul?
 - [Patapon 3 Overhaul Discord](https://discord.gg/gX2EZe6EJj)
