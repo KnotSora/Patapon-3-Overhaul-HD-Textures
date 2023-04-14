@@ -19,11 +19,12 @@
 - Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
-### If you're updating the textures, replace the entire "Overhaul" Folder and replace the old hashes.
+### If you're updating the textures, replace the entire "Overhaul" Folder and replace the old hashes inside of your textures.ini.
 ## 🌟Big thank you to:
 
 - [Shockturtle](https://github.com/shockturtle) (Patapon 2 Relic Textures)
 - Hoz (Ai-Upscaling and some Wallpaper type textures)
+- All the Custom Mask Creators For Sharing Their HD Textures
 - Textures AI-Upscaled using [Lollypop 4x AI model by Lyonhrt and Remacri 4x AI model by Foolhardy](https://upscale.wiki/wiki/Model_Database#Universal_Models "Upscale Wiki")
 ***
 ## New to Overhaul?
