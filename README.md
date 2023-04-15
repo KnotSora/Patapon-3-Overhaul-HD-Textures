@@ -19,6 +19,7 @@
 - Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
+- If you're having trouble with installing you can check out a video guide [here](https://www.youtube.com/watch?v=Dma6807XnzQ)
 ### If you're updating the textures, replace the entire "Overhaul" Folder and replace the old hashes inside of your textures.ini.
 ## 🌟Big thank you to:
 
