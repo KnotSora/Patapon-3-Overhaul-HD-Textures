@@ -11,8 +11,7 @@
 ## 🎯 Installation:
 ### *It is highly recommended to download Patapon 3 HD textures before installing these.*
 ### You can download them here: 
-- [HD textures by WallSoGB (incomplete)](https://github.com/WallSoGB/Patapon3Textures "HD textures")
-- [Ai upscaled](https://drive.google.com/drive/folders/1L2GL0GdqHGnI_b2JupFaF2PHtTLVFCNT?usp=sharing "Ai upscaled")
+- [HD textures by LinZL and Others](https://github.com/Lin-zl522/Patapon-3-HD-Texture-Pack)
 ### To make these textures work:
 - Create a folder called "UCES01422" (skip this step if you already have such a folder)
 - Place both the "Overhaul" folder and your unpacked textures of choice inside of the "UCES01422" folder
