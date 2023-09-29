@@ -4,7 +4,7 @@
  <img width=480px height=272px src="https://github.com/KnotSora/Patapon-3-Overhaul-HD-Textures/blob/main/Overhaul/TODO/PIC1.PNG" alt="Patapon 3 Overhaul"></a>
 </p>
 <div>
-<h3 align = "center">Patapon 3 Overhaul exclusive HD textures (Unfinished)</h3>
+<h3 align = "center">Patapon 3 Overhaul exclusive HD textures (Might be finished for the current version, I genuinely don't know anymore)</h3>
 </div>
 
 
@@ -14,7 +14,7 @@
 - [HD textures by LinZL and Others](https://github.com/Lin-zl522/Patapon-3-HD-Texture-Pack)
 ### To make these textures work:
 - Create a folder called "UCES01422" (skip this step if you already have such a folder)
-- Place both the "Overhaul" folder and your unpacked textures of choice inside of the "UCES01422" folder
+- Place both the "Overhaul" folder and your unpacked textures of choice inside the "UCES01422" folder
 - Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
