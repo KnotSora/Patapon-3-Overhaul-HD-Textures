@@ -15,7 +15,7 @@
 ### To make these textures work:
 - Create a folder called "UCES01422" (skip this step if you already have such a folder)
 - Place both the "Overhaul" folder and your unpacked textures of choice inside the "UCES01422" folder
-- Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "texture.ini" file
+- Open both "Config.ini" and "textures.ini" files with your text editor of choice and follow the instructions inside of the "Config.ini" file
 - Make sure to enable Texture Replacement in the PPSSPP dev menu (Settings->Tools->Developer Tools)
 - Enjoy :)
 - If you're having trouble with installing you can check out a video guide [here](https://www.youtube.com/watch?v=Dma6807XnzQ)
